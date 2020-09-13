@@ -1,0 +1,14 @@
+C:\Users\luanm\Desktop\trabs martin\Menu de registro - Programação de computadores\Menu de registro - Programação de computadores\bin\Debug\Menu de registro - Programação de computadores.exe.config
+C:\Users\luanm\Desktop\trabs martin\Menu de registro - Programação de computadores\Menu de registro - Programação de computadores\bin\Debug\Menu de registro - Programação de computadores.exe
+C:\Users\luanm\Desktop\trabs martin\Menu de registro - Programação de computadores\Menu de registro - Programação de computadores\bin\Debug\Menu de registro - Programação de computadores.pdb
+C:\Users\luanm\Desktop\trabs martin\Menu de registro - Programação de computadores\Menu de registro - Programação de computadores\obj\Debug\Menu de registro - Programação de computadores.csprojAssemblyReference.cache
+C:\Users\luanm\Desktop\trabs martin\Menu de registro - Programação de computadores\Menu de registro - Programação de computadores\obj\Debug\Menu_de_registro___Programação_de_computadores.Form1.resources
+C:\Users\luanm\Desktop\trabs martin\Menu de registro - Programação de computadores\Menu de registro - Programação de computadores\obj\Debug\Menu_de_registro___Programação_de_computadores.Incluir.resources
+C:\Users\luanm\Desktop\trabs martin\Menu de registro - Programação de computadores\Menu de registro - Programação de computadores\obj\Debug\Menu_de_registro___Programação_de_computadores.Properties.Resources.resources
+C:\Users\luanm\Desktop\trabs martin\Menu de registro - Programação de computadores\Menu de registro - Programação de computadores\obj\Debug\Menu de registro - Programação de computadores.csproj.GenerateResource.cache
+C:\Users\luanm\Desktop\trabs martin\Menu de registro - Programação de computadores\Menu de registro - Programação de computadores\obj\Debug\Menu de registro - Programação de computadores.csproj.CoreCompileInputs.cache
+C:\Users\luanm\Desktop\trabs martin\Menu de registro - Programação de computadores\Menu de registro - Programação de computadores\obj\Debug\Menu de registro - Programação de computadores.exe
+C:\Users\luanm\Desktop\trabs martin\Menu de registro - Programação de computadores\Menu de registro - Programação de computadores\obj\Debug\Menu de registro - Programação de computadores.pdb
+C:\Users\luanm\Desktop\trabs martin\Menu de registro - Programação de computadores\Menu de registro - Programação de computadores\obj\Debug\Menu_de_registro___Programação_de_computadores.Alterar.resources
+C:\Users\luanm\Desktop\trabs martin\Menu de registro - Programação de computadores\Menu de registro - Programação de computadores\obj\Debug\Menu_de_registro___Programação_de_computadores.Excluir.resources
+C:\Users\luanm\Desktop\trabs martin\Menu de registro - Programação de computadores\Menu de registro - Programação de computadores\obj\Debug\Menu_de_registro___Programação_de_computadores.Pesquisar.resources
