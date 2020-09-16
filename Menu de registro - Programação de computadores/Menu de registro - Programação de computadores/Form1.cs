@@ -39,7 +39,7 @@ namespace Menu_de_registro___Programação_de_computadores
         }
         public void ExcluirCarro(string placa)
         {
-            listaCarros.Remove(listaCarros.Find(x => x.placa == placa));
+            listaCarros.Remove(listaCarros.Find(x => x.placa == placa.ToUpper()));
             txtNumeroRegistros.Text = "Numero de registros: " + listaCarros.Count;
         }
 

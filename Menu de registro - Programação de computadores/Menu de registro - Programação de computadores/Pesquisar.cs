@@ -26,7 +26,7 @@ namespace Menu_de_registro___Programação_de_computadores
 
             for (int i = 0; i < form.listaCarros.Count; i++)
             {
-                if (form.listaCarros[i].modelo == tBoxPesquisa.Text || form.listaCarros[i].fabricante == tBoxPesquisa.Text || form.listaCarros[i].cor == tBoxPesquisa.Text || form.listaCarros[i].placa == tBoxPesquisa.Text)
+                if (form.listaCarros[i].modelo == tBoxPesquisa.Text || form.listaCarros[i].fabricante == tBoxPesquisa.Text || form.listaCarros[i].cor == tBoxPesquisa.Text || form.listaCarros[i].placa == tBoxPesquisa.Text.ToUpper())
                 { resultado.AppendText(form.listaCarros[i].fabricante + " " + form.listaCarros[i].modelo + " " + form.listaCarros[i].cor + " " + form.listaCarros[i].placa + Environment.NewLine); }                   
             }
         }
